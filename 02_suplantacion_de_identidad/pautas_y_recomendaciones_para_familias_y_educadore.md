@@ -14,9 +14,11 @@ A continuación presentamos una serie de medidas que podemos realizar en caso de
 
 En caso de requerir denunciar un caso de suplantación de identidad en menores ante los cuerpos de seguridad del estado, debemos conocer los siguientes grupos especializados:
 
-**Policía Nacional (Brigada de Investigación Tecnológica)** [http://www.policia.es/bit](http://www.policia.es/bit)delitos.tecnologicos@policia.es
+**Policía Nacional (Brigada de Investigación Tecnológica)** [http://www.policia.es/bit](http://www.policia.es/bit)
 
-Guardia Civil (Grupo de Delitos Telemáticos)
+delitos.tecnologicos@policia.es
+
+**Guardia Civil (Grupo de Delitos Telemáticos)**
 
 [https://www.gdt.guardiacivil.es/webgdt/home_alerta.php](https://www.gdt.guardiacivil.es/webgdt/home_alerta.php)
 

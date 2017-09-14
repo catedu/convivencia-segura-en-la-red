@@ -1,4 +1,4 @@
-## DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
+### DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
 
 La “**Suplantación de Identidad**” en general consiste en el uso de información personal para hacerse pasar por otra persona con el fin de obtener un beneficio propio. Normalmente este beneficio genera un perjuicio a la persona que sufre dicha suplantación de identidad. En el caso de menores, es un riesgo cada vez más frecuente que se produce cuando una persona malintencionada actúa en nombre del menor haciéndose pasar por él mediante la utilización de diversas técnicas.
 
