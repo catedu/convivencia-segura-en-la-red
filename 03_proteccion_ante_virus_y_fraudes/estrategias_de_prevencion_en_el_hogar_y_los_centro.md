@@ -14,9 +14,7 @@ A continuación se describen algunas recomendaciones técnicas a modo de prevenc
 
 *   **_Realizar copias de seguridad en la nube_** (Cloud Computing): hacer copias de seguridad en la nube es una buena práctica que permite recuperar datos en caso de pérdida, pero no se deben hacer copias en la nube de información privada o confidencial, pues existe el riesgo de que esta información sea comprometida, ya que la información no suele estar cifrada (por ejemplo, Dropbox) y cualquier ciberdelincuente con acceso remoto al dispositivo puede acceder a la copia de seguridad.
 
-*   **_Gestión de contraseñas_**: las contraseñas deben ser secretas, robustas y no repetidas.
-
-En este sentido, la Oficina de Seguridad del internauta ofrece varias técnicas para crear contraseñas robustas y seguras en el siguiente enlace: [http://www.osi.es/es/contrasenas](http://www.osi.es/es/contrasenas)
+*   **_Gestión de contraseñas_**: las contraseñas deben ser secretas, robustas y no repetidas. En este sentido, la Oficina de Seguridad del internauta ofrece varias técnicas para crear contraseñas robustas y seguras en el siguiente enlace: [http://www.osi.es/es/contrasenas](http://www.osi.es/es/contrasenas)
 
 *   **_Verificar los enlaces cortos antes de acceder a ellos_**: los enlaces cortos, empleados especialmente en pantallas móviles para ahorrar en caracteres, se configuran como un caldo de cultivo perfecto para ataques de phishing, ya que el usuario no sabe hacia dónde apunta el enlace. A modo de ejemplo, recomendamos el siguiente servicio para verificar enlaces desconocidos : [www.unshort.me](http://www.unshort.me/)
 
