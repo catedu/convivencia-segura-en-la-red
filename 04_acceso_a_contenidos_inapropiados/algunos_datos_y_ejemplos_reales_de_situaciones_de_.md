@@ -4,7 +4,7 @@ En la actualidad, los menores disponen de mucha más información y conocimiento
 
 Una reciente investigación en la que participaron una veintena de países europeos estudió la manera en que los más jóvenes utilizaban Internet, con el fin de identificar los factores de riesgo relativos a la seguridad en la Red. En ese estudio se puso de manifiesto la preocupación de los padres por el tipo de contenidos a los que tenían acceso sus hijos: imágenes explícitas de sexo o violencia (un 48%), o que pudiesen acceder a información dañina para su salud (25%).
 
-La actividad de riesgo más común entre los menores es relacionarse vía online con gente desconocida siendo el segundo riesgo más común la exposición a peligros potenciales al acceder a contenidos inapropiados (violencia, sexo, conductas dañinas para la salud).
+La actividad de riesgo más común entre los menores es **relacionarse vía online con gente desconocida** siendo el segundo riesgo más común la exposición a peligros potenciales al acceder a contenidos inapropiados (violencia, sexo, conductas dañinas para la salud).
 
 ![](../assets/imagen_1.png)
 

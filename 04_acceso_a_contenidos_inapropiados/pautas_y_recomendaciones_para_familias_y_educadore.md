@@ -1,6 +1,6 @@
 ## PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
 
-El papel de las familias y educadores en la educación de los menores en relación al uso responsable de las TIC es necesaria y primordial, de cara a prevenir riesgos para la salud y el bienestar por el acceso a contenidos inapropiados. Es importante evitar posiciones alarmistas promoviendo la integración de actitudes positivas hacia el uso de las TIC.
+El papel de las familias y educadores en la educación de los menores en relación al uso responsable de las TIC es necesaria y primordial, de cara a prevenir riesgos para la salud y el bienestar por el acceso a contenidos inapropiados. Es importante **evitar posiciones alarmistas promoviendo la integración de actitudes positivas hacia el uso de las TIC**.
 
 En España la mayoría de políticas de protección de la infancia en el entorno audiovisual se basan en medidas de carácter restrictivo sobre el acceso determinados contenidos establecidos por el **Instituto de Cinematografía y de las Artes Audiovisuales (ICAA).**
 
@@ -8,8 +8,8 @@ Por otro lado disponemos de la **Clasificación PEGI y PEGI online.** El primero
 
 Para prevenir el acceso de los menores a contenidos inapropiados, existen algunos sistemas de filtrado de contenidos para ayudar al control parental, como son los buscadores diseñados para filtrar determinados contenidos y direcciones inapropiadas tales como Yahoo! Kids, Ask Kids , KidsClick o YouTube Kids
 
-Recomendaciones generales para familias y educadores.
-
+**Recomendaciones generales para familias y educadores.
+**
 *   Favorecer una actitud positiva y el diálogo con los menores sobre el uso de las TIC para así conocer sus preocupaciones y poder ofrecerles la confianza para hablar de cualquier tema, resolver sus dudas o problemas relacionados con algún contenido.
 
 *   Fomentar un uso responsable de las tecnologías.
