@@ -1,4 +1,4 @@
-## DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
+### DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
 
 Cuando hablamos de **privacidad en Internet** nos estamos refiriendo al control que tenemos sobre los datos personales que posee un determinado usuario cuando se conecta a Internet, interactúa e intercambia datos durante la navegación.
 
