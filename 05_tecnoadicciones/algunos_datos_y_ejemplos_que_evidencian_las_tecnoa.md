@@ -1,6 +1,6 @@
 ## ALGUNOS DATOS Y EJEMPLOS QUE EVIDENCIAN LAS TECNOADICCIONES {#algunos-datos-y-ejemplos-que-evidencian-las-tecnoadicciones}
 
-El Inteco junto a Orange realizó en el año 2011 el **_Estudio sobre seguridad y privacidad en el uso de los servicios_****_móviles por los menores españoles_** arroja una serie de datos que pueden poner algo de luz sobre el tema del que hablamos. El estudio íntegro lo puedes encontrar en este enlace:
+El Inteco junto a Orange realizó en el año 2011 el **_Estudio sobre seguridad y privacidad en el uso de los servicios móviles por los menores españoles_** arroja una serie de datos que pueden poner algo de luz sobre el tema del que hablamos. El estudio íntegro lo puedes encontrar en este enlace:
 
 [http://www.pantallasamigas.net/pdf/estudio_sobre_seguridad_y_privacidad_en_el_uso_de_los_servicios_moviles_por_los_menores_espanoles.pdf](http://www.pantallasamigas.net/pdf/estudio_sobre_seguridad_y_privacidad_en_el_uso_de_los_servicios_moviles_por_los_menores_espanoles.pdf)
 
@@ -14,21 +14,23 @@ A continuación extraemos unos datos:
 
 *   El 17,8% de los menores dice haber sido objeto de perjuicio económico (estafas, fraudes, etc.) con su smartphone.
 
-*   acceso a redes sociales: del 7,1% en 2010 se ha pasado al 54,3% en 2011
+*   El acceso a redes sociales: del 7,1% en 2010 se ha pasado al 54,3% en 2011
 
-*   mensajería instantánea: del 12,4% al 48,3%
+*   Mensajería instantánea: del 12,4% al 48,3%
 
-*   juegos: del 51,6% al 65%
+*   Juegos: del 51,6% al 65%
 
 A veces transformar este extenso informe al lenguaje de tus alumnos es lo realmente difícil. Hay muchas aplicaciones para adaptar cualquier información. Te pasamos un ejemplo sobre buenas prácticas de internet realizado con la aplicación Powtoon :
 
-[https://youtu.be/MIdhs2unQfI](https://youtu.be/MIdhs2unQfI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MIdhs2unQfI?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 Para acabar este apartado te ofrecemos un enlace a otro estudio en este caso sobre **_hábitos seguros en el uso de smartphones por los niños y adolescentes españoles_**
 
-[http://www.observatoriodelainfancia.es/oia/esp/descargar.aspx?id=3379&amp;tipo=documento](http://www.observatoriodelainfancia.es/oia/esp/descargar.aspx?id=3379&tipo=documento)
+[http://www.observatoriodelainfancia.es/oia/esp/documentos_ficha.aspx?id=3379](http://www.observatoriodelainfancia.es/oia/esp/documentos_ficha.aspx?id=3379)
 
-Te ofrecemos a continuación algunas noticias aparecidas en los medios de comunicación en los que aparece el riesgo de ser adicto.
+
+Te ofrecemos a continuación algunas **noticias** aparecidas en los medios de comunicación en los que aparece el **riesgo de ser adicto**.
 
 *   “El 21% de los jóvenes está en riesgo de ser adicto a las nuevas tecnologías.”
 
@@ -52,7 +54,7 @@ Muchos menores juegan con móviles y tablets incluso antes de cumplir los tres a
 
 [http://www.abc.es/sociedad/abci-tecnoadiccion-esta-afectando-compulsivamente-nuevas-generaciones-201705092152_noticia.html](http://www.abc.es/sociedad/abci-tecnoadiccion-esta-afectando-compulsivamente-nuevas-generaciones-201705092152_noticia.html)
 
-3\. &quot;La tecnoadicción surge cuando no le damos al cerebro otra alternativa”
+* &quot;La tecnoadicción surge cuando no le damos al cerebro otra alternativa”
 
 Las tecnologías de entretenimiento se han vuelto uno de los mayores desafíos para padres y educadores en nuestros días.
 

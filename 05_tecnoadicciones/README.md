@@ -2,7 +2,7 @@
 
 ### DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
 
-**“**Ahora creo que muchos de mis amigos también están enganchados, aunque no lo saben” Beatriz Valera.
+“Ahora creo que muchos de mis amigos también están enganchados, aunque no lo saben” Beatriz Valera.
 
 Esta afirmación de una adolescente y _tecnoadicta_ en tratamiento es la mejor clave para entender lo que conlleva la adicción.
 
@@ -16,13 +16,13 @@ Vivimos a golpe de un clic, y nuestros jóvenes no son ajenos. Los niños y adol
 
 a- ‘Fomo’ | Miedo a perderse algo (Fear of missing out)
 
-Cuando se tiene la sensación de que te estás perdiendo cosas y eso te inquieta y te hace sentir incómodo. Estos síntomas de ansiedad son el _FOMO_ —_miedo a perderse algo—_. Lo produce ver a través de las redes sociales [cómo](https://elpais.com/elpais/2013/11/01/eps/1383326586_229973.html)[](https://elpais.com/elpais/2013/11/01/eps/1383326586_229973.html)[tus amigos se lo pasan bien sin ti](https://elpais.com/elpais/2013/11/01/eps/1383326586_229973.html). Tres de cada 10 jóvenes han experimentado esta sensación, según un estudio de la agencia J. Walter Thompson.
+Cuando se tiene la sensación de que te estás perdiendo cosas y eso te inquieta y te hace sentir incómodo. Estos síntomas de ansiedad son el _FOMO_ —_miedo a perderse algo—_. Lo produce ver a través de las redes sociales [cómo tus amigos se lo pasan bien sin ti](https://elpais.com/elpais/2013/11/01/eps/1383326586_229973.html). Tres de cada 10 jóvenes han experimentado esta sensación, según un estudio de la agencia J. Walter Thompson.
 
 b-**Nomofobia | No sin mi ‘smartphone’**
 
-Te quedas sin batería y aún faltan horas para llegar a casa. Estás inquieto: notas un nudo en el estómago y [no dejas de preguntarte si alguien te estará escribiendo o llamando](https://elpais.com/elpais/2015/06/26/masterdeperiodismo/1435340490_485389.html). Esta sensación de ansiedad cuando[ no puedes disponer del teléfono](https://tecnologia.elpais.com/tecnologia/2015/01/21/actualidad/1421851734_781562.html) es la nomofobia. Afecta a más de la mitad de los usuarios aunque la mayoría ni siquiera sabe que la sufre.
+Te quedas sin batería y aún faltan horas para llegar a casa. Estás inquieto: notas un nudo en el estómago y [no dej****as de preguntarte si alguien te estará escribiendo o llamando](https://elpais.com/elpais/2015/06/26/masterdeperiodismo/1435340490_485389.html). Esta sensación de ansiedad cuando[ no puedes disponer del teléfono](https://tecnologia.elpais.com/tecnologia/2015/01/21/actualidad/1421851734_781562.html) es la nomofobia. Afecta a más de la mitad de los usuarios aunque la mayoría ni siquiera sabe que la sufre.
 
-c- **Phubbing’ | Ignoro y me ignoran por un móvil**
+c- **’Phubbing’ | Ignoro y me ignoran por un móvil**
 
 Estás en en la calle con tus amigos. Llevas el teléfono en la mano y [una luz parpadeando te indica que tienes una notificación](https://elpais.com/elpais/2015/06/04/videos/1433434942_088922.html). La consultas, contestas y te entretienes mirando alguna otra aplicación. Estás haciendo _phubbing_ a las personas que están contigo. Es decir, estás menospreciando a tus acompañantes mirando el teléfono en lugar de prestarles atención.
 
@@ -32,11 +32,11 @@ Si a la actividad a la que más tiempo dedicas es estar en Internet o te pones n
 
 e- **Efecto Google | El buscador es mi oráculo**
 
-Lo consultas todo en Google. El buscador se ha convertido para ti en un baúl donde siempre puedes volver a buscar ese dato que no recuerdas. Esta facilidad de acceso a la información y [sus repercusiones en la memoria es el ](https://tecnologia.elpais.com/tecnologia/2011/07/15/actualidad/1310720463_850215.html)[_Efecto Google_](https://tecnologia.elpais.com/tecnologia/2011/07/15/actualidad/1310720463_850215.html)[.](https://tecnologia.elpais.com/tecnologia/2011/07/15/actualidad/1310720463_850215.html)
+Lo consultas todo en Google. El buscador se ha convertido para ti en un baúl donde siempre puedes volver a buscar ese dato que no recuerdas. Esta facilidad de acceso a la información y [sus repercusiones en la memoria es el _Efecto Google_](https://tecnologia.elpais.com/tecnologia/2011/07/15/actualidad/1310720463_850215.html)
 
 f- **Ludopatía ‘online’ | El casino a un clic de distancia**
 
-Un día inviertes tu dinero en una web de apuestas_,_ por probar. Haces pequeñas transferencias a la página y no te das cuenta del dinero que gastas. Perder solo te motiva a seguir jugando para recuperarlo. La ludopatía de casino ha evolucionado:[](https://politica.elpais.com/politica/2015/04/29/actualidad/1430303082_588616.html)[ahora se lleva el juego ](https://politica.elpais.com/politica/2015/04/29/actualidad/1430303082_588616.html)[_online_](https://politica.elpais.com/politica/2015/04/29/actualidad/1430303082_588616.html)[.](https://politica.elpais.com/politica/2015/04/29/actualidad/1430303082_588616.html) El 40% de los jóvenes adictos al juego apuesta por Internet, según la Federación Española de Jugadores de Azar Rehabilitados.
+Un día inviertes tu dinero en una web de apuestas_,_ por probar. Haces pequeñas transferencias a la página y no te das cuenta del dinero que gastas. Perder solo te motiva a seguir jugando para recuperarlo. La ludopatía de casino ha evolucionado:[ahora se lleva el juego _online_](https://politica.elpais.com/politica/2015/04/29/actualidad/1430303082_588616.html)[.](https://politica.elpais.com/politica/2015/04/29/actualidad/1430303082_588616.html) El 40% de los jóvenes adictos al juego apuesta por Internet, según la Federación Española de Jugadores de Azar Rehabilitados.
 
 g- **Juegos ‘freemium’ | Pagar para recuperar vidas**
 
@@ -44,7 +44,7 @@ Vas por la calle y no tienes cobertura. Recurres a los juegos que te has descarg
 
 h- **Cibercondría | Internet es mi médico ‘online’**
 
-Cuando te duele algo buscas tus síntomas en Internet para saber qué te está pasando. Te pones tenso y piensas que te relajará encontrar una solución en la web. Si este es tu caso, sufres de [_cibercondría_](https://sociedad.elpais.com/sociedad/2013/06/04/actualidad/1370360469_652936.html)[, la hipocondría de Internet](https://sociedad.elpais.com/sociedad/2013/06/04/actualidad/1370360469_652936.html). El acceso a la información fácil e inmediato ha hecho que la web se convierta en un médico.
+Cuando te duele algo buscas tus síntomas en Internet para saber qué te está pasando. Te pones tenso y piensas que te relajará encontrar una solución en la web. Si este es tu caso, sufres de [_cibercondría_, la hipocondría de Internet](https://sociedad.elpais.com/sociedad/2013/06/04/actualidad/1370360469_652936.html). El acceso a la información fácil e inmediato ha hecho que la web se convierta en un médico.
 
 i-**Vibranxiety’ | El síndrome de la vibración fantasma**
 
@@ -52,7 +52,9 @@ Vas caminando y notas cómo vibra tu móvil en el bolsillo. Cuando lo consultas 
 
 _Fuente:_ [_https://elpais.com/elpais/2015/06/25/masterdeperiodismo/1435222559_337110.html_](https://elpais.com/elpais/2015/06/25/masterdeperiodismo/1435222559_337110.html)
 
-**Visiona el siguiente vídeo y observarás alguno de estos “síndromes” o incluso crearás alguno nuevo.** [https://youtu.be/OINa46HeWg8](https://youtu.be/OINa46HeWg8)
+**Visiona el siguiente vídeo y observarás alguno de estos “síndromes” o incluso crearás alguno nuevo.** 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OINa46HeWg8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Al hilo de estos “síndromes” o dificultades que plantean los expertos está el hecho de vivir hiperconectados.
 

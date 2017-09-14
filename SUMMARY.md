@@ -17,7 +17,6 @@
   * [DATOS Y EJEMPLOS](04_acceso_a_contenidos_inapropiados/algunos_datos_y_ejemplos_reales_de_situaciones_de_.md)
   * [PAUTAS Y RECOMENDACIONES](04_acceso_a_contenidos_inapropiados/pautas_y_recomendaciones_para_familias_y_educadore.md)
 * [05. TECNOADICCIONES](05_tecnoadicciones/README.md)
-  * [DEFINICIÓN Y CONCEPTOS](05_tecnoadicciones/definicion_y_conceptos.md)
-  * [ALGUNOS DATOS Y EJEMPLOS QUE EVIDENCIAN LAS TECNOADICCIONES](05_tecnoadicciones/algunos_datos_y_ejemplos_que_evidencian_las_tecnoa.md)
+  * [DATOS Y EJEMPLOS](05_tecnoadicciones/algunos_datos_y_ejemplos_que_evidencian_las_tecnoa.md)
   * [PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES](05_tecnoadicciones/pautas_y_recomendaciones_para_familias_y_educadore.md)
 
