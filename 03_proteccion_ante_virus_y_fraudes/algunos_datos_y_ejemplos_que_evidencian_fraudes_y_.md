@@ -20,7 +20,7 @@ La última encuesta sobre hábitos de uso y seguridad de Internet de menores y j
 
 *   **_Datos personales._ **Existe un alto porcentaje de usuarios (44%) que tiene poca o ninguna confianza a la hora de facilitar sus datos personales mediante un e-mail o un servicio de mensajería instantánea.
 
-A continuación vamos a ver algunos ejemplos reales de infecciones de virus y fraudes o estafas:
+A continuación vamos a ver algunos **ejemplos reales de infecciones de virus y fraudes o estafas**:
 
 *   La linterna molona
 

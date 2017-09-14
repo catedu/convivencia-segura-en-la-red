@@ -1,4 +1,4 @@
-## DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
+### DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
 
 El término “virus” se utiliza comúnmente para referirse a las aplicaciones informáticas que buscan alterar el funcionamiento de los dispositivos (PC, tabletas, smartphones, etc.) y en muchos casos, robar información del usuario. Existen numerosos tipos de programas maliciosos que se han vuelto más sofisticados y más peligrosos, y más difíciles de detectar.
 
