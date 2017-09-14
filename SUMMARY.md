@@ -18,5 +18,5 @@
   * [PAUTAS Y RECOMENDACIONES](04_acceso_a_contenidos_inapropiados/pautas_y_recomendaciones_para_familias_y_educadore.md)
 * [05. TECNOADICCIONES](05_tecnoadicciones/README.md)
   * [DATOS Y EJEMPLOS](05_tecnoadicciones/algunos_datos_y_ejemplos_que_evidencian_las_tecnoa.md)
-  * [PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES](05_tecnoadicciones/pautas_y_recomendaciones_para_familias_y_educadore.md)
+  * [PAUTAS Y RECOMENDACIONES](05_tecnoadicciones/pautas_y_recomendaciones_para_familias_y_educadore.md)
 
