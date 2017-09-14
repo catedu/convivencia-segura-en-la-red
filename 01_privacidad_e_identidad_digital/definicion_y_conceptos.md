@@ -36,11 +36,13 @@ Videos sobre la privacidad e identidad digital de **EDUCAINTERNET:**
 
 * Datos de carácter personal:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LqD2OBeeaNE?rel=0" frameborder="0" allowfullscreen></iframe>
+<object><iframe width="560" height="315" src="https://www.youtube.com/embed/LqD2OBeeaNE?rel=0" frameborder="0" allowfullscreen></iframe>
+</object>
 
-* Privacidad: [https://www.youtube.com/watch?v=OdZCGKlwmrk](https://www.youtube.com/watch?v=OdZCGKlwmrk)
+* Privacidad: 
 
-* Identidad digital y reputación: [https://www.youtube.com/watch?v=pq8RgKNylmo](https://www.youtube.com/watch?v=pq8RgKNylmo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdZCGKlwmrk?rel=0" frameborder="0" allowfullscreen></iframe>
 
+* Identidad digital y reputación: 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pq8RgKNylmo?rel=0" frameborder="0" allowfullscreen></iframe>
