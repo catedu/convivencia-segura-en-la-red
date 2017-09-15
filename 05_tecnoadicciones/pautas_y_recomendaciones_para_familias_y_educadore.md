@@ -1,4 +1,4 @@
-## PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
+### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
 
 La prevención familiar y escolar es una parte fundamental ante el desarrollo de cualquier adicción. Es necesario conocer las causas, consecuencias o riesgos que se sumen al hacer un uso incorrecto o excesivo de las TIC. Describiremos algunas pautas de actuación a nivel preventivo dirigido tanto a familias como a educadores y menores.
 

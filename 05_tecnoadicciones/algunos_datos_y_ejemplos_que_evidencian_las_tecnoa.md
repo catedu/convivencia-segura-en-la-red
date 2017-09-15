@@ -1,4 +1,4 @@
-## ALGUNOS DATOS Y EJEMPLOS QUE EVIDENCIAN LAS TECNOADICCIONES {#algunos-datos-y-ejemplos-que-evidencian-las-tecnoadicciones}
+### ALGUNOS DATOS Y EJEMPLOS QUE EVIDENCIAN LAS TECNOADICCIONES {#algunos-datos-y-ejemplos-que-evidencian-las-tecnoadicciones}
 
 El Inteco junto a Orange realizó en el año 2011 el **_Estudio sobre seguridad y privacidad en el uso de los servicios móviles por los menores españoles_** arroja una serie de datos que pueden poner algo de luz sobre el tema del que hablamos. El estudio íntegro lo puedes encontrar en este enlace:
 

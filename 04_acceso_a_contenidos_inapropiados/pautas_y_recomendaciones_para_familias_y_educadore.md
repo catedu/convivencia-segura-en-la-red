@@ -1,4 +1,4 @@
-## PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
+### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
 
 El papel de las familias y educadores en la educación de los menores en relación al uso responsable de las TIC es necesaria y primordial, de cara a prevenir riesgos para la salud y el bienestar por el acceso a contenidos inapropiados. Es importante **evitar posiciones alarmistas promoviendo la integración de actitudes positivas hacia el uso de las TIC**.
 

@@ -1,4 +1,4 @@
-## ALGUNOS DATOS Y EJEMPLOS REALES DE SITUACIONES DE RIESGO {#algunos-datos-y-ejemplos-reales-de-situaciones-de-riesgo}
+### ALGUNOS DATOS Y EJEMPLOS REALES DE SITUACIONES DE RIESGO {#algunos-datos-y-ejemplos-reales-de-situaciones-de-riesgo}
 
 En la actualidad, los menores disponen de mucha más información y conocimiento sobre manejo de TIC, y aun así, un porcentaje elevado sigue accediendo a contenidos no apropiados para su edad.
 
