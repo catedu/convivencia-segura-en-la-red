@@ -1,6 +1,6 @@
 # Summary
 
-* [Ciberbullying](README.md)
+* [Una red segura para menores](README.md)
 * [01. PRIVACIDAD E IDENTIDAD DIGITAL](01_privacidad_e_identidad_digital/README.md)
   * [DATOS Y EJEMPLOS](01_privacidad_e_identidad_digital/algunos_datos_y_ejemplos_que_evidencian_riesgos_co.md)
   * [PAUTAS Y RECOMENDACIONES](01_privacidad_e_identidad_digital/pautas_y_recomendaciones_para_familias_y_educadore.md)
