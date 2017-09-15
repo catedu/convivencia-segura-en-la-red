@@ -1,4 +1,4 @@
-## PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
+### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
 
 Virus en Android: ¿cómo detectar si mi dispositivo está infectado?
 

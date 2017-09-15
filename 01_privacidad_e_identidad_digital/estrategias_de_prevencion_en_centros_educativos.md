@@ -1,4 +1,4 @@
-## **ESTRATEGIAS DE PREVENCIÓN EN CENTROS EDUCATIVOS** {#estrategias-de-prevenci-n-en-centros-educativos}
+### **ESTRATEGIAS DE PREVENCIÓN EN CENTROS EDUCATIVOS** {#estrategias-de-prevenci-n-en-centros-educativos}
 
 Algunas de las pautas y recomendaciones preventivas que hemos de conocer han de venir determinadas en primer lugar por la formación de los menores, y en segundo lugar por un seguimiento continuado en el tiempo. Algunas de ellas son las siguientes:
 

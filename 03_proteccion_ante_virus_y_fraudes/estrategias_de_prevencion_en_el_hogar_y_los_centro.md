@@ -1,4 +1,4 @@
-## **ESTRATEGIAS DE PREVENCIÓN EN EL HOGAR Y LOS CENTROS** {#estrategias-de-prevenci-n-en-el-hogar-y-los-centros}
+### **ESTRATEGIAS DE PREVENCIÓN EN EL HOGAR Y LOS CENTROS** {#estrategias-de-prevenci-n-en-el-hogar-y-los-centros}
 
 Lo primero que debemos hacer las familias y tutores es informar a nuestros menores sobre cómo evitar este tipo infecciones de virus y fraudes. La buena comunicación es una de las claves fundamentales para la seguridad online..
 

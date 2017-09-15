@@ -1,4 +1,4 @@
-## ALGUNOS DATOS Y EJEMPLOS DE SUPLANTACIÓN DE IDENTIDAD {#algunos-datos-y-ejemplos-de-suplantaci-n-de-identidad}
+### ALGUNOS DATOS Y EJEMPLOS DE SUPLANTACIÓN DE IDENTIDAD {#algunos-datos-y-ejemplos-de-suplantaci-n-de-identidad}
 
 Según datos obtenidos por el estudio “Risk and safety on the internet: the perspective of european children”, el 12% de los menores europeos entre 9 y 16 años han sido víctimas de estos riesgos a través de Internet.
 

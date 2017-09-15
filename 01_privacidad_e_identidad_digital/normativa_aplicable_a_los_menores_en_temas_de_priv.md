@@ -1,4 +1,4 @@
-## NORMATIVA APLICABLE A LOS MENORES EN TEMAS DE PRIVACIDAD {#normativa-aplicable-a-los-menores-en-temas-de-privacidad}
+### NORMATIVA APLICABLE A LOS MENORES EN TEMAS DE PRIVACIDAD {#normativa-aplicable-a-los-menores-en-temas-de-privacidad}
 
 La imagen de los menores en Internet es algo a lo que la legislación presta una especial atención. Y con razón. A poco que naveguemos por las redes sociales, encontraremos familias que publican continuamente y sin ningún pudor fotografías de sus hijos e hijas.
 

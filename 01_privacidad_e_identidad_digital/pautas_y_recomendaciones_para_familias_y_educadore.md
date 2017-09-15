@@ -1,4 +1,4 @@
-## PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
+### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES {#pautas-y-recomendaciones-para-familias-y-educadores}
 
 En caso de detectar algún tipo de vulneración de intimidad o privacidad de nuestros menores (por ejemplo, una foto/vídeo privado o dato de carácter personal en Internet que se ha publicado sin nuestro consentimiento -en caso de menores de 14 años- o sin el consentimiento del menor -si es mayor de 14-, y no es por un error de algún conocido), en primer lugar deberíamos comunicárselo a la persona implicada y pedirle la retirada de la imagen. De no ser esto posible, el camino que se debemos seguir como padre, madre y/o tutor sería:
 

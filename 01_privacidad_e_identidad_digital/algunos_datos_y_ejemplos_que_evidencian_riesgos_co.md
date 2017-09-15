@@ -1,4 +1,4 @@
-## ALGUNOS DATOS Y EJEMPLOS QUE EVIDENCIAN RIESGOS CONTRA LA PRIVACIDAD {#algunos-datos-y-ejemplos-que-evidencian-riesgos-contra-la-privacidad}
+### ALGUNOS DATOS Y EJEMPLOS QUE EVIDENCIAN RIESGOS CONTRA LA PRIVACIDAD {#algunos-datos-y-ejemplos-que-evidencian-riesgos-contra-la-privacidad}
 
 En España, los menores de 14 años no pueden acceder a las redes sociales, excepto si lo hacen con consentimiento paterno. A pesar de esto, en España, un 37% de los niños menores de 11 años participa en mundos virtuales.
 

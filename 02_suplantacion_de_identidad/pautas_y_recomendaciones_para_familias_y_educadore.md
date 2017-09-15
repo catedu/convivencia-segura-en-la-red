@@ -1,4 +1,4 @@
-## PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES ( OSI) {#pautas-y-recomendaciones-para-familias-y-educadores-osi}
+### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES ( OSI) {#pautas-y-recomendaciones-para-familias-y-educadores-osi}
 
 A continuación presentamos una serie de medidas que podemos realizar en caso de detectar una suplantación de identidad en nuestros menores.
 
