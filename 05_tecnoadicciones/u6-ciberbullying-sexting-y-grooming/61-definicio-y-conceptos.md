@@ -98,7 +98,9 @@ En los nuevos protocolos y programas de convivencia se está insistiendo en una 
 
 En los centros educativos los testigos son compañeros que se alinean con el acosador para no tener problemas, y a la vez conviven dentro del anonimato que les hace creer ser más impunes. 
 
-b- Sexting, Se origina en un menor que envía imágenes o vídeos sexuales propios. Para ello utiliza el móvil y a través de redes sociales como Whatsapp, Line, SnapChat, Instagram,  Telegram…es delito porque se considera como pornografía infantil.
+#### b- Sexting:
+
+Se origina en un menor que envía imágenes o vídeos sexuales propios. Para ello utiliza el móvil y a través de redes sociales como Whatsapp, Line, SnapChat, Instagram,  Telegram…es delito porque se considera como pornografía infantil.
 
 Esta práctica está realmente extendida entre los jóvenes, y aunque el eslogan es no lo produzcas, no lo transmitas y no lo provoques, los niños y adolescentes lo realizan sin ser conscientes sus consecuencias.
 De esta manera el sexting se convierte en una práctica de riesgo. Los problemas más habituales son:
