@@ -100,39 +100,54 @@ En los centros educativos los testigos son compañeros que se alinean con el aco
 
 #### b- Sexting:
 
-Se origina en un menor que envía imágenes o vídeos sexuales propios. Para ello utiliza el móvil y a través de redes sociales como Whatsapp, Line, SnapChat, Instagram,  Telegram…es delito porque se considera como pornografía infantil.
+Se origina en un menor que **envía imágenes o vídeos sexuales propios**. Para ello utiliza el móvil y a través de redes sociales como Whatsapp, Line, SnapChat, Instagram,  Telegram… es delito porque se considera como pornografía infantil.
 
-Esta práctica está realmente extendida entre los jóvenes, y aunque el eslogan es no lo produzcas, no lo transmitas y no lo provoques, los niños y adolescentes lo realizan sin ser conscientes sus consecuencias.
-De esta manera el sexting se convierte en una práctica de riesgo. Los problemas más habituales son:
+Esta práctica está realmente extendida entre los jóvenes, y aunque el eslogan es **no lo produzcas, no lo transmitas y no lo provoques**, los niños y adolescentes lo realizan sin ser conscientes sus consecuencias.
 
-Daños al honor y a la propia imagen 
-Pérdida de intimidad y privacidad 
-Sextorsión: personas que te chantajean por esas imágenes
-Ciberbullying: personas que te acosan, insultan y molestan 
-Implicación en delitos de pornografía infantil si eres menor de edad  
+De esta manera **el sexting se convierte en una práctica de riesgo. Los problemas más habituales son:**
 
-A continuación damos diez razones para no sextear:
+* Daños al honor y a la propia imagen 
+* Pérdida de intimidad y privacidad 
+* Sextorsión: personas que te chantajean por esas imágenes
+* Ciberbullying: personas que te acosan, insultan y molestan 
+* Implicación en delitos de pornografía infantil si eres menor de edad  
+
+A continuación damos **diez razones para no sextear**:
+
 http://www.pensarantesdesextear.mx/prevencion-10-razones-no-sexting/
 
-Muy a menudo el alumnado no acepta ese riesgo, de hecho es muy común entre los adolescentes hacer sexting. Ahora te proponemos un decálogo para sextear de forma seguro:
+Muy a menudo el alumnado no acepta ese riesgo, de hecho es muy común entre los adolescentes hacer sexting. Ahora te proponemos un **decálogo para sextear de forma segura**:
 
 http://www.sextingseguro.com/consejos-sextear-nudes-con-menos-riesgos/
 
-c- Grooming, es acoso sexual que se produce en los espacios virtuales. Es acoso ejercido por un adulto y se refiere a acciones realizadas deliberadamente para establecer una relación y un control emocional sobre un niño o niña con el fin de preparar el terreno para el abuso sexual del menor. Se podría decir que son situaciones de acoso con un contenido sexual explícito o implícito.
+#### c- Grooming.
 
-Fases:
+Es **acoso sexual que se produce en los espacios virtuales**. Es acoso ejercido por un adulto y se refiere a acciones realizadas deliberadamente para establecer una relación y un control emocional sobre un niño o niña con el fin de preparar el terreno para el abuso sexual del menor. Se podría decir que son situaciones de acoso con un contenido sexual explícito o implícito.
 
+**Fases:
+**
 1. Contacto y acercamiento del ciberacosador que finge ser atractivo para el menor.
 2. Consigue en el transcurso de la relación que el menor le envíe alguna fotografía comprometida.
 3. Si el menor no accede a sus pretensiones sexuales, le chantajea con las fotos.
 4. Mediante amenazas el ciberacosador puede acceder a todos sus caprichos sexuales, llegando en algún caso, incluso a contactar físicamente con el menor.
- 	Consejos para los alumnos:
-Mantener los datos en privado.
-No molestar o insulta a otros con dispositivos.
-No responder a mensajes o llamadas de desconocidos.
-Si es algo importante hablar con un adulto de confianza.
-La opción GPS se debe utilizar con precaución.
-Cuidado con la webcam, tapa siempre la cámara.
-Tener precaución al conectarse a redes WIFI o Bluetooth
-		Encuestas sobre comportamiento de los niños en las redes sociales revelan que a la vez que se hacen 	mayores aumenta el contacto con desconocidos. El salto de las 12 a los 14 años puede quintuplicar ese 	contacto que estaría en zona de riesgo.
-	Observa esta imagen del Estado de México:
+
+
+**Consejos para los alumnos:
+**
+1. Mantener los datos en privado.
+2. No molestar o insulta a otros con dispositivos.
+3. No responder a mensajes o llamadas de desconocidos.
+4. Si es algo importante hablar con un adulto de confianza.
+5. La opción GPS se debe utilizar con precaución.
+6. Cuidado con la webcam, tapa siempre la cámara.
+7. Tener precaución al conectarse a redes WIFI o Bluetooth
+		
+Encuestas sobre comportamiento de los niños en las redes sociales revelan que a la vez que se hacen 	mayores aumenta el contacto con desconocidos. El salto de las 12 a los 14 años puede quintuplicar ese contacto que estaría en zona de riesgo.
+
+Observa esta imagen del Estado de México:
+
+![](/assets/ciberb.jpg)
+
+
+
+

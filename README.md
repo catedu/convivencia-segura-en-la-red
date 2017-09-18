@@ -9,7 +9,9 @@ Se trata de un curso eminentemente práctico que pretende dar una visión genera
 
 Los temas que vamos a tratar estarán relacionados con la identidad digital, la gestión de la privacidad en la red, los impactos negativos del uso de internet como son: fraudes y virus que acechan en las redes sociales, el acceso a contenidos inapropiados, el ciberbullying, el sexting , el grooming y las tecnoadicciones. Pero también queremos proponer iniciativas que permitan un uso adecuado de las redes sociales por parte de nuestros y que sirvan de base para una reflexión seria sobre estos temas. 
 
-OBJETIVOS:
+##OBJETIVOS Y CONTENIDOS
+
+###OBJETIVOS:
 Como objetivo transversal vinculado a la formación docente, nos proponemos mejorar la competencia digital profesional del docente.
 Además nos planteamos los siguientes objetivos específicos en este curso:
 1. Promover el uso seguro y responsable de las TIC entre los menores.
@@ -21,9 +23,10 @@ Además nos planteamos los siguientes objetivos específicos en este curso:
 7. Prevenir la aparición de comportamientos de riesgo social, tales como:  ciberbullying, sexting, grooming etc.
 8. Iniciar una estrategia de participación y protagonismo de los adolescentes, apoyada en las buenas prácticas para hacer de Internet un entorno saludable.  
 
-CONTENIDOS:
+###CONTENIDOS:
 La estructura del curso es modular y secuencial. El curso consta de 4 módulos. Cada uno de ellos comprende dos unidades didácticas. El último de ellos se centrará sobre el programa Ciberayudantes, una experiencia llevada a cabo en el IES Parque Goya.
 El curso tiene una duración de 50 horas a 60 horas 
+
 MÓDULO I: IDENTIDAD DIGITAL
 1. Privacidad e identidad digital.
 2. Suplantación de identidad.
@@ -34,8 +37,9 @@ MÓDULO II: Riesgos en la red II
 5. Tecnoadiciones.
 6. Ciberbullying, sexting y grooming.
 MÓDULO III: CIBERAYUDANTES un programa de centro
-1. Justificación, objetivos y contenidos.
-2. Iniciativas:
+7. Justificación, objetivos y contenidos.
+8. Iniciativas
+
 Observamos. Observatorio sobre el uso de redes sociales en la ESO.
 Visionamos cortos y reflexionamos
 Tuiteamos.
@@ -45,6 +49,7 @@ Colaboramos con la Familias
 Creamos equipo de Ciberayudantes. Formación de los futuros ciberayudantes.
 Netiqueta.
 Otras actividades.
+
 ANEXOS:
 Glosario de términos
 Recursos y Material complementario
