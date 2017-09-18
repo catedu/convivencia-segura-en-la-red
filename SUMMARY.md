@@ -31,5 +31,5 @@
     * [6.1 Definició y conceptos](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/61-definicio-y-conceptos.md)
     * [6.2 Datos y ejemplos](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/62-datos-y-ejemplos.md)
     * [6.3 Pautas y recomendaciones](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/63-pautas-y-recomendaciones.md)
-* MÓDULO IV: CIBERAYUDANTES, UN PROGRAMA DE CENTRO
+* [MÓDULO IV: CIBERAYUDANTES, UN PROGRAMA DE CENTRO](modulo-iv-ciberayudantes-un-programa-de-centro.md)
 
