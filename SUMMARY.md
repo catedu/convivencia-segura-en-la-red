@@ -35,4 +35,8 @@
   * [U7 Ciberayudantes: Una experiencia de centro](modulo-iv-ciberayudantes-un-programa-de-centro/u7-ciberayudantes-una-experiencia-de-centro.md)
     * [7.1 Contexto del proyecto y del centro](modulo-iv-ciberayudantes-un-programa-de-centro/71-contexto-del-proyecto-y-del-centro.md)
     * [7.2 Marco teórico](modulo-iv-ciberayudantes-un-programa-de-centro/72-marco-teorico.md)
+    * [7.3 Justificación](modulo-iv-ciberayudantes-un-programa-de-centro/73-justificacion.md)
+    * [7.4  Objetivos](modulo-iv-ciberayudantes-un-programa-de-centro/74-objetivos.md)
+    * [7.5 Metodología](modulo-iv-ciberayudantes-un-programa-de-centro/75-metodologia.md)
+    * [7.6 Actividades realizadas](modulo-iv-ciberayudantes-un-programa-de-centro/76-actividades-realizadas.md)
 
