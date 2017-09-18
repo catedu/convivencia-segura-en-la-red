@@ -32,4 +32,7 @@
     * [6.2 Datos y ejemplos](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/62-datos-y-ejemplos.md)
     * [6.3 Pautas y recomendaciones](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/63-pautas-y-recomendaciones.md)
 * [MÓDULO IV: CIBERAYUDANTES, UN PROGRAMA DE CENTRO](modulo-iv-ciberayudantes-un-programa-de-centro.md)
+  * [U7 Ciberayudantes: Una experiencia de centro](modulo-iv-ciberayudantes-un-programa-de-centro/u7-ciberayudantes-una-experiencia-de-centro.md)
+    * [7.1 Contexto del proyecto y del centro](modulo-iv-ciberayudantes-un-programa-de-centro/71-contexto-del-proyecto-y-del-centro.md)
+    * [7.2 Marco teórico](modulo-iv-ciberayudantes-un-programa-de-centro/72-marco-teorico.md)
 
