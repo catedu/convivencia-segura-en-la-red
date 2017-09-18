@@ -102,43 +102,60 @@ Spot: “Basta ya de machismos en whatsapp”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TIjCCr4Jy2c?rel=0" frameborder="0" allowfullscreen></iframe>
 
-7. Colaboramos con la Familias. La implicación de las familias es fundamental. Por eso organizamos iniciativas que promuevan el uso adecuado de internet en el hogar. Algunas de ellas son las siguientes: 
-Charla informativa a las familias sobre el uso de las redes sociales a cargo de la Policía Nacional dentro del Plan Director.
-Taller formativo sobre el uso de redes sociales para familias realizado por el grupo de convivencia con la participación de los ciberayudantes.
- Elaboración conjunta de folletos que recojan buenas prácticas de internet en familia”.  
+#### 7. Colaboramos con la Familias. 
+
+La implicación de las familias es fundamental. Por eso organizamos iniciativas que promuevan el uso adecuado de internet en el hogar. Algunas de ellas son las siguientes:
+
+* Charla informativa a las familias sobre el uso de las redes sociales a cargo de la Policía Nacional dentro del Plan Director.
+* Taller formativo sobre el uso de redes sociales para familias realizado por el grupo de convivencia con la participación de los ciberayudantes.
+* Elaboración conjunta de folletos que recojan buenas prácticas de internet en familia”.  
+
 https://alumnosayudantes.files.wordpress.com/2015/03/triptico-uso-redes-sociales-padres2.pdf
-Grupo de lectura “Leer juntos” de padres y profesores en el que se propone la lectura de dos obras que tratan sobre el uso de redes sociales y adolescente: Pomelo y limón y Croquetas y whatsapp  de la escritora zaragozana Begoña Oro. En ambas historias, leídas también en clase por los alumnos, las familias y los profesores se ponen en la piel de los adolescentes a través de la ficción. Esa visión tan cercana a la realidad les sirve como reflexión del uso que su hijo o alumno puede hacer de un blog o del whatsapp. Aunque es una tertulia literaria y no una escuela de familias, el hecho de que padres e hijos hayan leído las mismas novelas les proporciona la posibilidad de hablar del tema y así compartir lo que cada uno conoce del mismo. Además padres, profesores y alumnos asisten en diferentes momentos al encuentro con la autora, un motivo más de acercamiento y de complicidad de nuestra comunidad educativa y un posterior encuentro con la autora.
 
+* Grupo de lectura “Leer juntos” de padres y profesores en el que se propone la lectura de dos obras que tratan sobre el uso de redes sociales y adolescente: Pomelo y limón y Croquetas y whatsapp  de la escritora zaragozana Begoña Oro. En ambas historias, leídas también en clase por los alumnos, las familias y los profesores se ponen en la piel de los adolescentes a través de la ficción. Esa visión tan cercana a la realidad les sirve como reflexión del uso que su hijo o alumno puede hacer de un blog o del whatsapp. Aunque es una tertulia literaria y no una escuela de familias, el hecho de que padres e hijos hayan leído las mismas novelas les proporciona la posibilidad de hablar del tema y así compartir lo que cada uno conoce del mismo. Además padres, profesores y alumnos asisten en diferentes momentos al encuentro con la autora, un motivo más de acercamiento y de complicidad de nuestra comunidad educativa y un posterior encuentro con la autora.
 
-8. Creamos equipo de Ciberayudantes. Formación de los futuros ciberayudantes a través de la red social educativa Edmodo.
+![](/assets/ciberb8.jpg)
 
- Uno de los aspectos clave del programa es la formación de un equipo de Ciberayudantes. Todos ellos tienen experiencia como alumnos ayudantes.  .
-Queremos destacar que su rol tiene una doble función: Ayudar , asesorar, detectar situaciones de riesgo y mediar entre alumnos más pequeños por un lado. Y por otro lado informar directamente a través de charlas sobre temas de ciberseguridad, partiendo de la base que su incidencia entre el alumnado tiene mayor calado que si viene de los adultos.
-Pero ¿Cuáles son los temas más importantes que se abordan en esta formación?
-PRIVACIDAD e IDENTIDAD DIGITAL : Datos personales, derecho a la imagen, configuración de  perfil, contactos,..
-REPUTACIÓN DIGITAL Y RESPONSABILIDAD PENAL.
-VENTAJAS E IMPACTOS NEGATIVOS DE USO DE LAS REDES SOCIALES
+#### 8. Creamos equipo de Ciberayudantes. Formación de los futuros ciberayudantes a través de la red social educativa Edmodo.
+
+Uno de los aspectos clave del programa es la formación de un equipo de Ciberayudantes. Todos ellos tienen experiencia como alumnos ayudantes.
+
+* Queremos destacar que su rol tiene una **doble función**: **Ayudar , asesorar, detectar** situaciones de riesgo y mediar entre alumnos más pequeños por un lado. Y por otro lado **informar** directamente a través de charlas sobre temas de ciberseguridad, partiendo de la base que su incidencia entre el alumnado tiene mayor calado que si viene de los adultos.
+
+* Pero ¿Cuáles son los temas más importantes que se abordan en esta formación?
+ * PRIVACIDAD e IDENTIDAD DIGITAL : Datos personales, derecho a la imagen, configuración de  perfil, contactos,..
+ * REPUTACIÓN DIGITAL Y RESPONSABILIDAD PENAL.
+ * REDES SOCIALES
 PAUTAS Y NORMAS DE CONDUCTA. NETIQUETA
+
 Creemos necesaria la participación del alumnado en el desarrollo de este proyecto en colaboración con los tutores. Al menos han dedicado una sesión a modo de charla con el resto de los alumnos, para comentarles sobre algunos consejos, pautas y normas de utilización de las TIC y más concretamente en el uso de las redes sociales, tomando como referencia los contenidos relativos a la privacidad, uso de contraseñas, webcam, configuración de perfil, acceso a contenidos inadecuados, envío de comentarios e imágenes,… 
 
-Consultamos al correo de  ciberayudantes@iesparquegoya.es. Espacio de consultas de los alumnos cuando tengan problemas con el uso de las redes sociales.
+**Consultamos al correo de  ciberayudantes@iesparquegoya.es.** Espacio de consultas de los alumnos cuando tengan problemas con el uso de las redes sociales.
 
-CASO PRÁCTICO. Gestión de la identidad. Mediación de ciberayudantes.
+**CASO PRÁCTICO. Gestión de la identidad. Mediación de ciberayudantes.**
+
 Ya hemos visto cómo gestionar la privacidad e identidad digital. A continuación vamos a verlo de una manera práctica, a través de algunos casos prácticos, que nos van a permitir prevenir, detectar y actuar ante un caso de este tipo.
+
 Mario es un chico de 15 años que, como casi todos los adolescentes en la actualidad, mantiene una relación continua con las nuevas tecnologías: utiliza redes sociales de forma diaria para contactar con sus amigos y con grupos con los que se siente identificado, interactuando normalmente con el mundo virtual tanto con personas conocidas como desconocidas.
+
 Actualmente cursa tercero  de ESO  y, aunque es buen estudiante, ha sido acusado por una compañera Marta por haber subido una foto a Instagram en la que ella aparecía fumando con sus amigos. Se siente molesta y ahora ella va vertiendo a través de las redes  comentarios despectivos sobre Mario.
+
 Al día siguiente de que se publicaran estos comentarios, Andrea, una alumna ciberayudante ha recibido dichos comentarios por un grupo de Whatsapp . Lo ha comentado con otra ciberayudante Diana y están dispuestas a mediar entre los dos.
- Andrea, una buena amiga de Mario, habla con él en la hora del recreo.
-Mario tío, no veas la que has liado. ¡Se te ha ido la olla! Todo el mundo ha visto la foto de Marta fumando, y ya sabes que a ella no le gusta que se suban fotos suyas fumando. Además, acaba de dejarlo hace unos días.
-Bah, me da igual… Ella siempre está chuleándose con el cigarrillo. Va de más guay. Y encima cuando se encuentra conmigo, me echa el humo a la cara. Así que no me arrepiento…
-Quizá ahora no te arrepientas pero…¿no has pensado que esto puede traerte consecuencias? 
-Si, ya lo sé. Va subiendo comentarios sobre mi persona que nos son ciertos y si sigue así, pienso denunciarla. Al fin y al cabo yo solo he subido una foto suya fumando.
-Claro, pero lo has hecho sin su consentimiento. ¿Quieres que hable con ella para ver qué solución podemos dar?
+
+Andrea, una buena amiga de Mario, habla con él en la hora del recreo.
+
+-Mario tío, no veas la que has liado. ¡Se te ha ido la olla! Todo el mundo ha visto la foto de Marta fumando, y ya sabes que a ella no le gusta que se suban fotos suyas fumando. Además, acaba de dejarlo hace unos días.
+-Bah, me da igual… Ella siempre está chuleándose con el cigarrillo. Va de más guay. Y encima cuando se encuentra conmigo, me echa el humo a la cara. Así que no me arrepiento…
+-Quizá ahora no te arrepientas pero…¿no has pensado que esto puede traerte consecuencias? 
+-Si, ya lo sé. Va subiendo comentarios sobre mi persona que nos son ciertos y si sigue así, pienso denunciarla. Al fin y al cabo yo solo he subido una foto suya fumando.
+-Claro, pero lo has hecho sin su consentimiento. ¿Quieres que hable con ella para ver qué solución podemos dar?
+
 En el segundo recreo Andrea y Diana se reúnen con Mario y Marta, para tratar de llegar a un acuerdo.
-Hola chicos. Queríamos hablar un momento con vosotros porque hemos vista la foto que tú has subido y hemos leído los comentarios  que Marta has compartido por whatsapp.
-Estoy seguro de que escribiste todo aquello porque estabas enfadada pero tienes que comprender que no ha sido la mejor forma para demostrarlo.
-Todo lo que publicamos en la red influye en la imagen que damos a los demás, en nuestra reputación… ¿eres consciente de que esto puede afectarte de forma negativa?
-Puff… yo que se… estaba muy cabreado… tenía que haberme relajado antes de subir nada.
-Si…ahora no podemos volver atrás, pero espero que puedas aprender de esta experiencia… Todo tiene consecuencias .
-  Y tú Marta, ¿crees que con los comentarios que has publicado es la mejor manera de resolver tu conflicto con Mario?
-Supongo que los comentarios que he hecho no son muy afortunados, pero lo que ha hecho Mario no tiene desperdicio.
+
+-Hola chicos. Queríamos hablar un momento con vosotros porque hemos vista la foto que tú has subido y hemos leído los comentarios  que Marta has compartido por whatsapp.
+-Estoy seguro de que escribiste todo aquello porque estabas enfadada pero tienes que comprender que no ha sido la mejor forma para demostrarlo.
+-Todo lo que publicamos en la red influye en la imagen que damos a los demás, en nuestra reputación… ¿eres consciente de que esto puede afectarte de forma negativa?
+-Puff… yo que se… estaba muy cabreado… tenía que haberme relajado antes de subir nada.
+-Si…ahora no podemos volver atrás, pero espero que puedas aprender de esta experiencia… Todo tiene consecuencias .
+-Y tú Marta, ¿crees que con los comentarios que has publicado es la mejor manera de resolver tu conflicto con Mario?
+-Supongo que los comentarios que he hecho no son muy afortunados, pero lo que ha hecho Mario no tiene desperdicio.
