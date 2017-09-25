@@ -39,4 +39,7 @@
     * [7.4  Objetivos](modulo-iv-ciberayudantes-un-programa-de-centro/74-objetivos.md)
     * [7.5 Metodología](modulo-iv-ciberayudantes-un-programa-de-centro/75-metodologia.md)
     * [7.6 Actividades realizadas](modulo-iv-ciberayudantes-un-programa-de-centro/76-actividades-realizadas.md)
+    * [7.7 Criterios y herramientas de evaluación.](modulo-iv-ciberayudantes-un-programa-de-centro/77-criterios-y-herramientas-de-evaluacion.md)
+    * [7.8 Resultados y conclusiones](modulo-iv-ciberayudantes-un-programa-de-centro/78-resultados-y-conclusiones.md)
+    * [7.9 Repercusión en medios de comunicación.](modulo-iv-ciberayudantes-un-programa-de-centro/79-repercusion-en-medios-de-comunicacion.md)
 
