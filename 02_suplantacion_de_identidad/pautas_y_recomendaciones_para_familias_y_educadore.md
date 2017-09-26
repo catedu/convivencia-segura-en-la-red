@@ -18,9 +18,9 @@ En caso de requerir denunciar un caso de suplantación de identidad en menores a
 
 * **Guardia Civil (Grupo de Delitos Telemáticos)** [https://www.gdt.guardiacivil.es/webgdt/home_alerta.php](https://www.gdt.guardiacivil.es/webgdt/home_alerta.php). Teléfono: 900.101.062
 
-*   Desde el ámbito familiar tenemos que concienciar a los menores sobre la importancia de limitar la difusión voluntaria de datos personales y privados en redes sociales configurando de forma correcta las opciones de privacidad de las diferentes redes sociales que utilicen, pero también manteniendo los equipos seguros con las actualizaciones de software oportunas. Además la familia debe fomentar entre sus hijos la discreción a la hora de publicar fotografías o comentarios en la red.
+Desde el ámbito familiar tenemos que concienciar a los menores sobre la importancia de limitar la difusión voluntaria de datos personales y privados en redes sociales configurando de forma correcta las opciones de privacidad de las diferentes redes sociales que utilicen, pero también manteniendo los equipos seguros con las actualizaciones de software oportunas. Además la familia debe fomentar entre sus hijos la discreción a la hora de publicar fotografías o comentarios en la red.
 
-*   De acuerdo con la oficina de Seguridad del Internauta (OSI).para usar el ordenador de una manera organizada y segura se recomienda crear una cuenta por cada usuario que vaya a utilizar el ordenador. De esta forma, cada usuario podrá tener su propio escritorio, con una configuración y preferencias personalizadas.
+De acuerdo con la **Oficina de Seguridad del Internauta (OSI)** para usar el ordenador de una manera organizada y segura se recomienda crear una cuenta por cada usuario que vaya a utilizar el ordenador. De esta forma, cada usuario podrá tener su propio escritorio, con una configuración y preferencias personalizadas. Se recomienda además:
 
 *   Bloquear las ventanas emergentes.
 
