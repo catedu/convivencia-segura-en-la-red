@@ -2,7 +2,7 @@
 
 * [Una red segura para menores](README.md)
 
-### IDENTIDAD DIGITAL
+### IDENTIDAD DIGITAL: Privacida
 #### U1 Privacidad e identidad digital
     * [1.1 Definición y conceptos](01_privacidad_e_identidad_digital/u1-privacidad-e-identidad-digital/11-definiciones-y-conceptos.md)
     * [1.2 Pautas y recomendaciones](01_privacidad_e_identidad_digital/pautas_y_recomendaciones_para_familias_y_educadore.md)
