@@ -1,7 +1,7 @@
 # Summary
 
 * [Una red segura para menores](README.md)
-* [MÓDULO I: IDENTIDAD DIGITAL](01_privacidad_e_identidad_digital/README.md)
+### IDENTIDAD DIGITAL
   * [U1 Privacidad e identidad digital](01_privacidad_e_identidad_digital/u1-privacidad-e-identidad-digital.md)
     * [1.1 Definición y conceptos](01_privacidad_e_identidad_digital/u1-privacidad-e-identidad-digital/11-definiciones-y-conceptos.md)
     * [1.2 Pautas y recomendaciones](01_privacidad_e_identidad_digital/pautas_y_recomendaciones_para_familias_y_educadore.md)

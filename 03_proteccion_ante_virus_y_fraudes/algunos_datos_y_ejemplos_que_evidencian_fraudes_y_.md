@@ -2,7 +2,7 @@
 
 La última encuesta sobre hábitos de uso y seguridad de Internet de menores y jóvenes en España revela algunos datos en relación a este tema que hemos de tener en cuenta:
 
-*   **_Uso de antivirus._ **El 82% de los equipos informáticos están protegidos con software antivirus.
+*   **Uso de antivirus** El 82% de los equipos informáticos están protegidos con software antivirus.
 
 *   **_Configuración de perfil en redes sociales._ **El 53,1% de los usuarios de redes sociales tienen costumbre de configurar sus cuentas para que sólo sus contactos puedan acceder a sus perfiles.
 
