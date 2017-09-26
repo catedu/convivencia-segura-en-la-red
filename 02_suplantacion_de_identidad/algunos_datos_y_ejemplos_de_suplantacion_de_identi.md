@@ -6,7 +6,7 @@ Los resultados de estos estudios resaltan la importancia y la necesidad del dise
 
 Veamos algunos ejemplos de casos reales de suplantación de identidad publicados en los medios de comunicación.
 
-Ejemplo 1\. Detenida una joven de 17 años por usurpar el perfil de otra persona en una red social.
+**Ejemplo 1\. Detenida una joven de 17 años por usurpar el perfil de otra persona en una red social.**
 
 Una joven de 17 años ha sido arrestada en Tudela (Navarra), junto con un menor de edad que ha sido puesto a disposición del correspondiente tribunal, acusada de usurpar el perfil de una persona en una red social, publicar fotos íntimas suyas y extorsionarle.
 
@@ -22,14 +22,14 @@ En concreto, los dos jóvenes detenidos se apoderaron de las fotografías de una
 
 [http://www.elmundo.es/elmundo/2012/11/23/andalucia/1353676945.html](http://www.elmundo.es/elmundo/2012/11/23/andalucia/1353676945.html)
 
-Ejemplo 3\. Imputado un menor por usurpación de identidad en una red social.
+**Ejemplo 3\. Imputado un menor por usurpación de identidad en una red social.**
 
 Aunque actualmente el aún presunto autor de este delito ya se encuentra dentro de la mayoría de edad, contaba con 16 años en el momento en que decidió abrir un nuevo perfil en una conocida red social. Hasta aquí, nada que nos deba extrañar sin embargo este chico utilizó para crear dicho perfil tanto la fotografía como los datos personales de una tercera persona que, una vez se percató de los hechos, lo denunció a la Guardia Civil.
 
 [http://www.delitosinformaticos.com/05/2015/delitos/usurpacion-de-identidad/imputado-menor-usurpacion-identidad-una-red-social](http://www.delitosinformaticos.com/05/2015/delitos/usurpacion-de-identidad/imputado-menor-usurpacion-identidad-una-red-social)
 
-Ejemplo 4\. Desarticulada una banda que estafaba en internet con suplantación de identidad.
+**Ejemplo 4\. Desarticulada una banda que estafaba en internet con suplantación de identidad.**
 
 Agentes de la Guardia Civil han desarticulado en Zaragoza una banda criminal formada por siete adultos y un menor que robaban documentos para suplantar la identidad sus víctimas y crear cuentas bancarias a su nombre con las que extraer dinero y adquirir productos de lujo a través de internet.
 
-[**http://cadenaser.com/emisora/2017/01/31/radio_zaragoza/1485861767_855722.html**](http://cadenaser.com/emisora/2017/01/31/radio_zaragoza/1485861767_855722.html)
+[http://cadenaser.com/emisora/2017/01/31/radio_zaragoza/1485861767_855722.html](http://cadenaser.com/emisora/2017/01/31/radio_zaragoza/1485861767_855722.html)
