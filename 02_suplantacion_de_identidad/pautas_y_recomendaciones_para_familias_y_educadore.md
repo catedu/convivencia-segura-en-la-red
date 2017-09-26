@@ -1,4 +1,4 @@
-### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES ( OSI) {#pautas-y-recomendaciones-para-familias-y-educadores-osi}
+### PAUTAS Y RECOMENDACIONES PARA FAMILIAS Y EDUCADORES (OSI) {#pautas-y-recomendaciones-para-familias-y-educadores-osi}
 
 A continuación presentamos una serie de medidas que podemos realizar en caso de detectar una suplantación de identidad en nuestros menores.
 
@@ -14,15 +14,9 @@ A continuación presentamos una serie de medidas que podemos realizar en caso de
 
 En caso de requerir denunciar un caso de suplantación de identidad en menores ante los cuerpos de seguridad del estado, debemos conocer los siguientes grupos especializados:
 
-**Policía Nacional (Brigada de Investigación Tecnológica)** [http://www.policia.es/bit](http://www.policia.es/bit)
+* **Policía Nacional (Brigada de Investigación Tecnológica)** [http://www.policia.es/bit](http://www.policia.es/bit). delitos.tecnologicos@policia.es
 
-delitos.tecnologicos@policia.es
-
-**Guardia Civil (Grupo de Delitos Telemáticos)**
-
-[https://www.gdt.guardiacivil.es/webgdt/home_alerta.php](https://www.gdt.guardiacivil.es/webgdt/home_alerta.php)
-
-Teléfono: 900.101.062
+* **Guardia Civil (Grupo de Delitos Telemáticos)** [https://www.gdt.guardiacivil.es/webgdt/home_alerta.php](https://www.gdt.guardiacivil.es/webgdt/home_alerta.php). Teléfono: 900.101.062
 
 *   Desde el ámbito familiar tenemos que concienciar a los menores sobre la importancia de limitar la difusión voluntaria de datos personales y privados en redes sociales configurando de forma correcta las opciones de privacidad de las diferentes redes sociales que utilicen, pero también manteniendo los equipos seguros con las actualizaciones de software oportunas. Además la familia debe fomentar entre sus hijos la discreción a la hora de publicar fotografías o comentarios en la red.
 
