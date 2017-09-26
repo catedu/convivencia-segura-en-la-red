@@ -30,14 +30,13 @@
   * [5.1 Definición y conceptos](05_tecnoadicciones/51-definicion-y-conceptos.md)
   * [5.2 Datos y ejemplos](05_tecnoadicciones/algunos_datos_y_ejemplos_que_evidencian_las_tecnoa.md)
   * [5.3 Pautas y recomendaciones](05_tecnoadicciones/pautas_y_recomendaciones_para_familias_y_educadore.md)
-* [U6 Ciberbullying, sexting y grooming](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming.md)
-  * [6.1 Definició y conceptos](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/61-definicio-y-conceptos.md)
+
+### 6. Ciberbullying, sexting y grooming
+  * [6.1 Definición y conceptos](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/61-definicio-y-conceptos.md)
   * [6.2 Datos y ejemplos](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/62-datos-y-ejemplos.md)
   * [6.3 Pautas y recomendaciones](05_tecnoadicciones/u6-ciberbullying-sexting-y-grooming/63-pautas-y-recomendaciones.md)
 
-### CIBERAYUDANTES, UN PROGRAMA DE CENTRO
-
-* [U7 Ciberayudantes: Una experiencia de centro](modulo-iv-ciberayudantes-un-programa-de-centro/u7-ciberayudantes-una-experiencia-de-centro.md)
+### 7. Ciberayudantes: Un programa de centro
   * [7.1 Contexto del proyecto y del centro](modulo-iv-ciberayudantes-un-programa-de-centro/71-contexto-del-proyecto-y-del-centro.md)
   * [7.2 Marco teórico](modulo-iv-ciberayudantes-un-programa-de-centro/72-marco-teorico.md)
   * [7.3 Justificación](modulo-iv-ciberayudantes-un-programa-de-centro/73-justificacion.md)
