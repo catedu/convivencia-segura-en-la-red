@@ -8,7 +8,7 @@ Hay que diferenciar entre dos conceptos:
 
 * **Usurpación de la identidad**. La usurpación de identidad consiste en que una vez suplantada la identidad se empiece a interactuar como si realmente fuera propietario de esos derechos y facultades \(por ejemplo, realizar comentarios o subir fotografías\).
 
-Ejemplos de suplantación de identidad:
+####Ejemplos de suplantación de identidad:
 
 * Registrar un perfil en una red social con el nombre de otra persona sin su consentimiento y utilizando datos o imágenes de la víctima, sería una suplantación de identidad y en principio se consideraría delito.
 
@@ -18,9 +18,9 @@ Ejemplos de suplantación de identidad:
 
 * Acceder sin consentimiento a una cuenta ajena utilizando los datos personales y haciéndose pasar por el suplantado \(por ejemplo, realizando comentarios o subiendo fotografías\). Sería una usurpación de identidad y se consideraría delito
 
-* Publicación sin consentimiento de anuncios o comentarios utilizando el nombre de un tercero o incluso utilizando sus datos personales para identificarse con terceras personas a través, por ejemplo, de correo o mensajería instantánea \(Whatsapp\).Sería una usurpación de identidad y se consideraría delito.
+* Publicación sin consentimiento de anuncios o comentarios utilizando el nombre de un tercero o incluso utilizando sus datos personales para identificarse con terceras personas a través, por ejemplo, de correo o mensajería instantánea \(Whatsapp\). Sería una usurpación de identidad y se consideraría delito.
 
-Ejemplos de suplantación de identidad entre menores.
+####Ejemplos de suplantación de identidad entre menores.
 
 * Entrar sin consentimiento.
 
@@ -32,7 +32,7 @@ Ejemplos de suplantación de identidad entre menores.
 
 * _**Hacerse pasar por otra persona.**_** **Crear una cuenta para hacerse pasar por otra persona. Aunque esta forma se suele dar en menores, es uno de los casos más frecuentemente utilizados para suplantar a gente famosa.
 
-Técnicas más utilizadas para la suplantación de identidad
+####Técnicas más utilizadas para la suplantación de identidad
 
 Las técnicas utilizadas para la suplantación de identidad tienen que ver con el concepto de **ingeniería social**, que se refiere al uso que hacen los ciberdelicuentes de la manipulación psicológica sobre las personas para conseguir sus fines, teniendo en cuenta la tendencia general de éstas a la confianza. Método basado en la persuasión y muy eficaz en el caso de los menores de edad que, debido tanto a su falta de experiencia y conocimientos relacionados con este tema como con su confianza e inocencia, son considerados especialmente vulnerables. Normalmente el motivo que impulsa a los adolescentes para la realización de suplantación de identidad es, habitualmente, la mera diversión. Las más utilizadas son el **Phishing , el Pharming y el** **SMiShing**.
 
@@ -67,6 +67,8 @@ Resultado de imagen de smishing ejemplos
 **Hacking** o intrusismo informático, consistente en el acceso no autorizado, por lo general violando los mecanismos de seguridad allí donde los haya, a los archivos y bases de datos contenidos en los sistemas informáticos ajenos, normalmente de grandes empresas o instituciones. “Las conductas de mero hacking acceso a los a los sistemas informáticos perpetrados con la única finalidad de acceder al password o puerta lógica no son actualmente constitutivos de delito pues carecen del elemento subjetivo del injusto”. \(Manuel Marchena\).
 
 **Cracking,** también conocido como sabotaje informático. No debemos confundirlo con el password cracking o rompimiento o desciframiento de claves \(passwords\) que se asimila al hacking. En el primer sentido, Manuel Marchena en “El sabotaje informático: entre los delitos de daños y los desórdenes públicos” los define como conducta consistente en la destrucción o en la producción generalizada de daños en su sistema, datos, programas informáticos o telemáticos.
+
+#### Indicios de suplantación de identidad
 
 Los menores deben conocer la existencia de ciertos indicios para detectar la posibilidad de que hayan sufrido suplantación de identidad. Algunos de los más importantes son:
 
