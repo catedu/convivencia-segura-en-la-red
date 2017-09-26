@@ -1,6 +1,6 @@
 # MÓDULO 1: IDENTIDAD DIGITAL
 
-## 01\. PRIVACIDAD E IDENTIDAD DIGITAL {#01-privacidad-e-identidad-digital}
+## 01. PRIVACIDAD E IDENTIDAD DIGITAL {#01-privacidad-e-identidad-digital}
 
 ### DEFINICIÓN Y CONCEPTOS {#definici-n-y-conceptos}
 
