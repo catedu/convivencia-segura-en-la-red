@@ -1,5 +1,10 @@
 # Una red segura para menores {#Una red segura para menores}
 
+**El uso de Internet y las nuevas tecnologías nos brinda múltiples beneficios pero también nos expone a un conjunto de riesgos**. El acceso a este nuevo escenario es una experiencia distinta y requiere que la familia y los centros educativos estén preparados para conducir a los menores hacia un uso seguro, responsable y respetuoso de Internet.
+
+Resulta vital, entonces, **conocer los impactos negativos a los cuales se exponen los menores** con el objeto de tomar conciencia, estar prevenidos, protegerlos de cualquier posible daño y enseñarles el uso adecuado de las tecnologías.
+Queremos mejorar el clima de convivencia en los centros docentes tanto en el entorno real como virtual, favoreciendo valores prosociales de dialogo, respeto y tolerancia que contribuyan a prevenir la violencia y el maltrato, y que permitan asimilar los valores propios de la cultura de paz.
+**La mejora de la convivencia es**, por tanto, **un factor general de la calidad educativa.**
 
 Este curso de formación online responde a la necesidad de desarrollar una formación entre el profesorado de primaria y secundaria en el uso seguro y responsable de las TIC por parte de los menores. 
 

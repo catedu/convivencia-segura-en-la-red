@@ -25,14 +25,41 @@ https://alumnosayudantes.wordpress.com/cibervoluntariado/iniciativa-1/
 Esta iniciativa tiene como finalidad la de visualizar vídeos publicados en internet donde se aprecian diferentes usos de las redes sociales que realizan los adolescentes. Servirán de base para poder analizar y reflexionar sobre las prácticas que se hacen de ellas. Para ello utilizaremos distintas guías didácticas que hemos elaborado en el centro y que se pueden descargar desde nuestro blog.
 
 VIDEO 1. ¿Anonimato? Una reunión con la profesora
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TT-t6HNwbts?rel=0" frameborder="0" allowfullscreen></iframe>
+
 VIDEO 2. ¿Tienes privacidad de verdad en las redes sociales?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_VAgyuNjnoY" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 3. No lo digas por internet
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3Z6f-KIIQI" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 4. Ciberbullying.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bgdOuBn4Q4?rel=0" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 5. El cartero. Grooming.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFDkS6qWn9I" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 6. El peligro de las redes sociales.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ak3qp4qRAiY?rel=0" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 7. Seguridad de los niños en las redes sociales.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuJG1M0broo?rel=0" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 8. Piénsalo antes de publicar algo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-L93JZc-Kgo?rel=0" frameborder="0" allowfullscreen></iframe>
+
 VÍDEO 9. Antes de colgar tu imagen en la web.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n_q-HJQe4rM?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 Guía didáctica 1. https://alumnosayudantes.files.wordpress.com/2014/05/guia-didactica-uso-redes-sociales.pdf
 
