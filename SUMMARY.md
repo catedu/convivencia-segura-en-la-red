@@ -53,7 +53,7 @@
 * [7.8 Resultados y conclusiones](modulo-iv-ciberayudantes-un-programa-de-centro/78-resultados-y-conclusiones.md)
 * [7.9 Repercusión en medios de comunicación.](modulo-iv-ciberayudantes-un-programa-de-centro/79-repercusion-en-medios-de-comunicacion.md)
 
-___
+## Glosario
 
 [Glosario y recursos](glosario.md)
 
