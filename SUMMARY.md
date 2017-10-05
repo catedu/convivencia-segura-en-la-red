@@ -55,5 +55,5 @@
 
 ## Glosario
 
-[Glosario y recursos](glosario.md)
+* [Glosario y recursos](glosario.md)
 
