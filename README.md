@@ -30,7 +30,6 @@ Además nos planteamos los siguientes objetivos específicos en este curso:
 
 ###CONTENIDOS:
 La estructura del curso es modular y secuencial. El curso consta de 4 módulos. Cada uno de ellos comprende dos unidades didácticas. El último de ellos se centrará sobre el programa Ciberayudantes, una experiencia llevada a cabo en el IES Parque Goya.
-El curso tiene una duración de 50 horas a 60 horas 
 
 MÓDULO I: IDENTIDAD DIGITAL
 1. Privacidad e identidad digital.
