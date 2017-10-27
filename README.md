@@ -34,13 +34,16 @@ La estructura del curso es modular y secuencial. El curso consta de 4 módulos. 
 MÓDULO I: IDENTIDAD DIGITAL
 1. Privacidad e identidad digital.
 2. Suplantación de identidad.
+
 MÓDULO II: Riesgos en la red I
 3. Prevención de virus y fraudes
 4. Acceso a contenidos inapropiados.
-MÓDULO II: Riesgos en la red II
+
+MÓDULO III: Riesgos en la red II
 5. Tecnoadiciones.
 6. Ciberbullying, sexting y grooming.
-MÓDULO III: CIBERAYUDANTES un programa de centro
+
+MÓDULO IV: CIBERAYUDANTES un programa de centro
 7. Justificación, objetivos y contenidos.
 8. Iniciativas
 
