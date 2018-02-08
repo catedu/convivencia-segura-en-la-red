@@ -56,4 +56,5 @@
 ## Glosario
 
 * [Glosario y recursos](glosario.md)
+* [Créditos](creditos.md)
 
