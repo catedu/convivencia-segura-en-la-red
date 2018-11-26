@@ -78,6 +78,25 @@ A) El comic de la Patrulla-K.
 B) Noticias de prensa.
 
 https://alumnosayudantes.files.wordpress.com/2015/03/ciberacoso-a-travc3a9s-de-la-prensa.pdf
+CIBERACOSO A TRAVÉS DE LA PRENSA: Guía didáctica.
+
+Imputan a dos chicas de 14 y 15 años de Tamarite por amenazar de muerte a otra menor a través de las redes. HERALDO   2018
+
+Imputado un menor en Málaga por distribuir imágenes pornográficas suyas en una red social. SUR 2018
+
+La edad ideal para tener el primer móvil es a partir de los 15 años.  ABC 2018
+
+Casi la mitad de los menores abusa de la tecnología.   ABC  2018
+
+Un millar de jóvenes daneses, imputados por compartir porno infantil en un chat. EL MUNDO  2018
+
+Decálogo para el buen uso del móvil en niños y adolescentes. VALENCIA NOTICiAS  2017
+
+Adolescentes: La vida en el móvil.  EL MUNDO  2017
+
+El 21% de los adolescentes españoles están en riesgo de ser adictos a Internet.   EL PAIS  2013
+
+La lección de privacidad de una profesora se hace viral. YAHOO 2013
 
 #### 4. Tuiteamos.
 
@@ -85,6 +104,8 @@ Con esta iniciativa simulando a la red social Twitter, queremos fomentar que se 
 Desde este curso además contamos con una cuenta de Twitter: @iespgoya
 
 ![](/assets/ciberb5.jpg)
+![](/assets/uso movil.jpg)
+NETIQUETA.  https://create.piktochart.com/output/29052800-netiqueta
 
 #### 5. Jugamos.
 
@@ -97,6 +118,11 @@ El primero de ellos es el “Juego del PRIVIAL”. Se trata de un juego on line 
 El segundo tipo de juego es el KAHOOT! “¿Y tú qué sabes sobre el uso de las redes sociales?” Se trata de un juego de preguntas y respuestas por equipos de cuatro, para realizar utilizando un smartphone o tablet. Buena parte de la preguntas han sido elaboradas por los ciberayudantes..
 
 ![](/assets/ciberb7.jpg)
+
+EDUCAPLAY.   La ruleta de las redes sociales.
+https://es.educaplay.com/es/recursoseducativos/3555372/html5/la_ruleta_de_redes_sociales.htm#!
+QUIZIZZ:     Privacidad e identidad digital
+https://quizizz.com/admin/quiz/5acddb8c4644110019a2b59f/privacidad-e-identidad-digital
 
 Juego con FLIPQUIZ.  
 
