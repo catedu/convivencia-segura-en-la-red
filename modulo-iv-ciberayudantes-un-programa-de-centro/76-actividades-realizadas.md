@@ -18,7 +18,7 @@ Enlace al cuestionario de alumnos.
 
 https://alumnosayudantes.wordpress.com/cibervoluntariado/iniciativa-1/
 
-![](/assets/ciberb4.jpg)
+![](/assets/cuestionario.jpg)
 
 #### 2. Visionamos cortos y reflexionamos.
 
@@ -110,6 +110,22 @@ Diseño y elaboración de producciones audiovisuales propias. Algunos de los ví
 Proyecto Ciberayudantes:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DKWJ2J9ExBo?rel=0" frameborder="0" allowfullscreen></iframe>
 
+Andrea y Diana dan su visión del programa.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QiFxwgIAi_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Motivos por los que utilizan las rede sociales.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHDHoR8YvwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Escenificación en mediación en redes sociales
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzESkr4Krzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1,78                https://goanimate4schools.com/player/embed/08GoB3OI3AH4
+
+Huella digital.     https://goanimate4schools.com/player/embed/0OyyyEVbCp_c
+
+“De ayudantes a ciberayudantes”: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TIjCCr4Jy2c?rel=0" frameborder="0" allowfullscreen></iframe>
+
 Spot “Me gusta , no me gusta”. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgpqtmdUWXQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -125,9 +141,7 @@ Spot: “Basta ya de machismos en whatsapp”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qz89d-jNfvg?rel=0" frameborder="0" allowfullscreen></iframe>
 
-“De ayudantes a ciberayudantes”: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TIjCCr4Jy2c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### 7. Colaboramos con la Familias. 
 
@@ -186,3 +200,5 @@ En el segundo recreo Andrea y Diana se reúnen con Mario y Marta, para tratar de
 -Si…ahora no podemos volver atrás, pero espero que puedas aprender de esta experiencia… Todo tiene consecuencias .
 -Y tú Marta, ¿crees que con los comentarios que has publicado es la mejor manera de resolver tu conflicto con Mario?
 -Supongo que los comentarios que he hecho no son muy afortunados, pero lo que ha hecho Mario no tiene desperdicio.
+
+**VER MÁS INFORMACIÓN ACTUALIZADA DESDE EL BLOG**
