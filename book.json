@@ -1,0 +1,31 @@
+{
+    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
+    "language": "es",
+    "variables": {
+        "title": "Convivencia Segura en la red",
+        "authors": [
+            "Antonio Martínez Ramos",
+            "Jesús Prieto González"
+        ],
+        "collaborators": [
+            { "name": "_________", "edited": "_____________" }
+        ]
+    },
+    "pluginsConfig": {
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "edit-link": {
+            "base": "https://github.com/catedu/convivencia-segura-en-la-red/edit/master",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "convivencia-segura-en-la-red"
+        }
+    }
+}
